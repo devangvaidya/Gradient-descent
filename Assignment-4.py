@@ -9,6 +9,8 @@ f = (a-z1)**2 + (b*(z2 - z1**2)**2)
 f_z1 = -2*(a-z1) - (4*z1*b*(z2 -z1**2))
 f_z2 = 2*b*(z2-z1**2)
 
+
+
 x=theta1_current = 4  #x
 y=theta2_current = 9 #y
 learning_rate = 0.0001
